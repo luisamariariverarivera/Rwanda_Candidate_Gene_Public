@@ -1,4 +1,4 @@
-This reposistory contains code to reproduce the analyses in Rivera et al (2024) Prenatal Exposure to the Genocide against the Tutsi in Rwanda is associated with DNA methylation at candidate genes in early adulthood: the role of trauma severity and postnatal adversity
+This repository contains code to reproduce the analyses in Rivera et al (2024) Prenatal Exposure to the Genocide against the Tutsi in Rwanda is associated with DNA methylation at candidate genes in early adulthood: the role of trauma severity and postnatal adversity
 
 preprint available: https://www.medrxiv.org/content/10.1101/2024.06.12.24308615v1
 
